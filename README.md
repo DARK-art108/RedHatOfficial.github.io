@@ -51,6 +51,7 @@ This list is just for Red Hat contributions to projects hosted on GitHub.  See h
 Open an issue in *this* repo, and the owners of the RedHatOfficial organization will get in touch with you.
 
 ## Quick start
+
     ```
     git clone https://github.com/RedHatOfficial/RedHatOfficial.github.io.git
     cd RedHatOfficial.github.io
